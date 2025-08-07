@@ -1,6 +1,6 @@
-# Zustand Shop
-
 ![Title](images/title.png)
+
+# Zustand Shop
 
 Clean and concise front-end only functional shopping store with product and cart manipulation.
 
