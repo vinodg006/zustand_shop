@@ -17,7 +17,7 @@ export const useStore = create<Store>()(
         }))
       ),
       {
-        name: "local-storage"
+        name: "zustand-store" // default localStorage
       }
     )
   )
