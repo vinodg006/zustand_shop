@@ -55,14 +55,14 @@ export function Cart() {
                   <Trash2 />
                 </Button>
               </CardHeader>
-              <CardContent>{product.price}</CardContent>
+              <CardContent>${product.price}</CardContent>
               <CardFooter>
                 <ChangeQtyButtons productId={product.id} />
               </CardFooter>
             </Card>
           ))}
         </div>
-        <p>Total: {total}$</p>
+        <p>Total: ${total}</p>
         <p>Address: {address}</p>
       </PopoverContent>
     </Popover>

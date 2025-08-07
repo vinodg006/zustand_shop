@@ -26,7 +26,7 @@ export default function App() {
         {PRODUCTS_DATA.map((product) => (
           <Card key={product.id}>
             <CardHeader>{product.title}</CardHeader>
-            <CardContent>{product.price}$</CardContent>
+            <CardContent>${product.price}</CardContent>
             <CardFooter>
               {cartProducts.find((item) => item.id === product.id) ? (
                 <ChangeQtyButtons productId={product.id} />
