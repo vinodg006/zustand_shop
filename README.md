@@ -4,6 +4,10 @@ Clean and concise front-end only functional shopping store with product and cart
 
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black)
 
+[Checkout the demo](https://vinodg006.github.io/zustand_shop/)
+
+![Demo](demo.gif)
+
 ## Tech Stack
 
 **Library:** React (Typescript)
