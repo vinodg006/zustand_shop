@@ -1,6 +1,6 @@
 # Zustand Shop
 
-![Title](title.png)
+![Title](images/title.png)
 
 Clean and concise front-end only functional shopping store with product and cart manipulation.
 
@@ -8,7 +8,7 @@ Clean and concise front-end only functional shopping store with product and cart
 
 [Checkout the demo](https://vinodg006.github.io/zustand_shop/)
 
-![Demo](demo.gif)
+![Demo](images/demo.gif)
 
 ## Tech Stack
 
