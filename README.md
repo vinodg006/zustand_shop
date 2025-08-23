@@ -1,10 +1,16 @@
 ![Title](images/title.png)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)" />
+  <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
+  <img src="https://img.shields.io/badge/tailwindcss-%23000?style=for-the-badge&logo=tailwindcss&labelColor=%23000&color=%2306B6D4" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&logo=vite&labelColor=%23000&color=%23646CFF" />
+  <img src="https://img.shields.io/badge/shadcnui-%23%23000000?style=for-the-badge&logo=shadcnui&labelColor=%23000&color=%23000000" />
+</div>
+
 # Zustand Shop
 
 Clean and concise front-end only functional shopping store with product and cart manipulation.
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
 [Checkout the demo](https://vinodg006.github.io/zustand_shop/)
 
@@ -20,12 +26,18 @@ Clean and concise front-end only functional shopping store with product and cart
 
 **Bundler:** Vite
 
-## Usage/Examples
+## Usage
 
-```javascript
-import Component from "my-project";
+**Installation**
 
-function App() {
-  return <Component />;
-}
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
 ```
