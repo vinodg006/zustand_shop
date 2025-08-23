@@ -16,6 +16,13 @@ Clean and concise front-end only functional shopping store with product and cart
 
 ![Demo](images/demo.gif)
 
+## <a name="features">🔋 Features</a>
+
+👉 **Multiple Product Management**: Displays the multiple products.
+
+👉 **Cart Manipulation**: Allows users to add multiple products to cart, update quantity and reset cart items
+
+
 ## Tech Stack
 
 **Library:** React (Typescript)
@@ -26,7 +33,10 @@ Clean and concise front-end only functional shopping store with product and cart
 
 **Bundler:** Vite
 
-## Usage
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
 
 **Installation**
 
